@@ -1,0 +1,981 @@
+# MASTER PROMPT — BUILD A PROFESSIONAL SEO-POWERED, GOOGLE ADSENSE-READY BLOGGING PLATFORM
+
+## PROJECT OBJECTIVE
+
+Act as a world-class team consisting of:
+
+- Senior full-stack web developer.
+- Professional UI/UX designer.
+- SEO strategist.
+- Investigative journalist and fact-checker.
+- Google AdSense compliance specialist.
+- Content marketing strategist.
+- GEO (Generative Engine Optimization) specialist.
+- AEO (Answer Engine Optimization) specialist.
+- E-E-A-T content strategist.
+- Technical SEO engineer.
+
+Your mission is to design, develop and deploy a complete, professional, high-performance, SEO-focused blogging website designed to build organic traffic, establish topical authority, attract international readers and generate revenue through Google AdSense and legitimate affiliate marketing.
+
+This must be a fully functional publishing platform, NOT a static website mockup.
+
+The website must be scalable, secure, responsive, fast, accessible, easy to manage and suitable for long-term organic growth.
+
+---
+
+# PART 1 — WEBSITE CONFIGURATION
+
+Use the following project settings:
+
+WEBSITE TOPIC: [AI TOOLS]
+
+WEBSITE NAME: Create a memorable, professional and brandable name.
+
+TARGET AUDIENCE:
+United States, United Kingdom, Canada, Australia and international English-speaking readers.
+
+WEBSITE LANGUAGE: English.
+
+WEBSITE TYPE: Professional niche editorial blog and knowledge platform.
+
+MONETIZATION:
+1. Google AdSense.
+2. Relevant affiliate marketing.
+3. Digital products and downloadable resources.
+4. Newsletter sponsorships (future).
+5. Premium guides and resources (future).
+
+DESIGN DIRECTION:
+
+Create a premium, modern, clean and trustworthy editorial website.
+
+Use:
+- White or very light background.
+- Professional typography.
+- Subtle blue, charcoal and neutral accents.
+- Beautiful article cards.
+- High-quality relevant imagery.
+- Consistent spacing.
+- Clear navigation.
+- Professional mobile layouts.
+- Excellent readability.
+
+Avoid excessive animations, unnecessary gradients, intrusive popups, visual clutter and distracting advertising placements.
+
+The final website must look like a credible independent online publication.
+
+---
+
+# PART 2 — SIX MAIN CONTENT CATEGORIES
+
+Create exactly six main categories specifically related to the selected website topic.
+
+For the default AI Tools niche, use:
+
+1. AI Tools & Software
+2. AI Tutorials & How-To Guides
+3. AI Productivity & Automation
+4. AI Business & Entrepreneurship
+5. AI News & Industry Updates
+6. AI Reviews & Comparisons
+
+Each category must have:
+
+- Its own SEO-friendly URL.
+- Unique category title.
+- Search-engine-optimized description.
+- Relevant category image.
+- Dedicated archive page.
+- Related articles.
+- Internal linking.
+- Breadcrumb navigation.
+- Appropriate structured data where applicable.
+
+Create a logical hierarchy of subcategories when needed.
+
+IMPORTANT:
+Avoid creating empty categories, thin archive pages or unrelated content merely to increase website size.
+
+All six categories must contribute to the website's central subject and topical authority.
+
+---
+
+# PART 3 — WEBSITE STRUCTURE AND ESSENTIAL PAGES
+
+Create the following pages.
+
+## Homepage
+
+Design a professional editorial homepage containing:
+
+1. Attractive hero section.
+2. Clear explanation of the website's purpose.
+3. Featured article.
+4. Latest articles.
+5. Six main category sections.
+6. Popular and recommended articles.
+7. Trending topics section, only when supported by actual research.
+8. Useful tools and resources.
+9. Newsletter subscription.
+10. About the publication section.
+11. Clear footer navigation.
+
+The homepage should immediately communicate:
+
+- What the website covers.
+- Who it helps.
+- What makes it different.
+- Why readers should trust it.
+
+## Essential website pages
+
+Create:
+
+- About Us.
+- Contact Us.
+- Privacy Policy.
+- Cookie Policy.
+- Terms and Conditions.
+- Editorial Policy.
+- Corrections Policy.
+- Affiliate Disclosure.
+- Author Profiles.
+
+Every page must contain meaningful, relevant content.
+
+Do not use generic placeholder text or fabricated company details.
+
+Make the website owner able to edit all legal and business information before publication.
+
+Do not invent a physical address, company registration, author credentials or business history.
+
+Include GDPR and applicable privacy requirements for European visitors, including appropriate consent mechanisms for non-essential cookies and advertising technologies.
+
+---
+
+# PART 4 — PROFESSIONAL ARTICLE MANAGEMENT SYSTEM
+
+Build a complete blog CMS.
+
+Every article must support:
+
+- Article title.
+- Slug.
+- Main category.
+- Secondary category or tags.
+- Author.
+- Publication date.
+- Last updated date.
+- Featured image.
+- In-content images.
+- Image ALT descriptions.
+- SEO title.
+- Meta description.
+- Primary keyword.
+- Secondary keywords.
+- Article introduction.
+- H2 and H3 headings.
+- Table of contents.
+- Internal links.
+- External references.
+- FAQ.
+- Related articles.
+- Reading-time estimate.
+- Social sharing metadata.
+- Article schema.
+- Draft, review, scheduled and published states.
+
+Create an admin dashboard where the website owner can:
+
+- Create articles.
+- Edit articles.
+- Preview articles.
+- Delete articles.
+- Schedule publication.
+- Manage categories.
+- Manage authors.
+- Upload images.
+- Edit SEO metadata.
+- Review content.
+- Manage featured articles.
+- Monitor publishing status.
+
+All content must be stored persistently in a proper database or CMS.
+
+Do not use temporary browser storage as the only database.
+
+---
+
+# PART 5 — ADVANCED DAILY RESEARCH AND CONTENT GENERATION ENGINE
+
+This is one of the most important features.
+
+Create an AI-assisted editorial workflow capable of researching and preparing one high-quality article per day.
+
+The daily publishing workflow must be:
+
+STEP 1 — DISCOVER TOPICS
+
+Research relevant topics from reliable and current sources, including:
+
+- Google Trends.
+- Google News.
+- Official company announcements.
+- Government and institutional websites.
+- Industry publications.
+- Original research and reports.
+- Reputable news publications.
+- Relevant community discussions where useful.
+
+Identify topics that are:
+
+- Relevant to the website niche.
+- Supported by genuine search interest or reader demand.
+- Useful to the target audience.
+- Timely where appropriate.
+- Not already covered extensively on the website.
+- Capable of providing original value.
+
+Do not confuse a trending headline with a valuable article opportunity.
+
+STEP 2 — TOPIC EVALUATION
+
+Before writing, evaluate:
+
+1. Search intent.
+2. Audience relevance.
+3. Keyword opportunity.
+4. Competition.
+5. Freshness.
+6. Available trustworthy sources.
+7. Existing website coverage.
+8. Potential for useful original analysis.
+
+Select the strongest topic.
+
+If no meaningful trending topic exists, select a useful evergreen topic.
+
+Never invent search volume, keyword difficulty or traffic estimates.
+
+STEP 3 — ORIGINALITY CHECK
+
+Check the existing article database.
+
+Avoid:
+
+- Duplicate articles.
+- Rewritten versions of existing articles.
+- Near-identical headlines.
+- Repetitive introductions.
+- Keyword cannibalization.
+- Unnecessary content created only to target more keywords.
+
+Find a genuinely different angle when a subject has already been covered.
+
+STEP 4 — RESEARCH AND FACT-CHECKING
+
+Research before writing.
+
+For every article:
+
+- Verify dates.
+- Verify names.
+- Verify statistics.
+- Verify technical specifications.
+- Check product pricing and availability if relevant.
+- Distinguish facts from opinions.
+- Identify outdated information.
+- Include source publication dates.
+- Prefer primary sources whenever possible.
+
+Never fabricate quotations, studies, statistics, expert opinions, product tests or personal experiences.
+
+Never claim that a product was independently tested unless actual testing occurred.
+
+If reliable information cannot be verified, omit the claim or clearly explain the uncertainty.
+
+STEP 5 — WRITE THE ARTICLE
+
+Act as a professional specialist writer, journalist and editor.
+
+Create original, useful, comprehensive and engaging content.
+
+Target approximately 2,000–2,500 words for substantial guides when appropriate.
+
+Shorter articles are acceptable when they satisfy the search intent better.
+
+Do not add unnecessary paragraphs to reach a word count.
+
+Every article must demonstrate actual value.
+
+---
+
+# PART 6 — COMPLETE SEO ARTICLE WRITING FRAMEWORK
+
+For each article, follow this structure.
+
+## A. Search optimization
+
+Generate:
+
+- One compelling SEO title.
+- One alternative CTR-focused headline.
+- Primary keyword.
+- 3–6 relevant secondary keywords.
+- Related search phrases.
+- Search intent.
+- SEO meta title.
+- Meta description (approximately 150–160 characters where appropriate).
+- SEO-friendly URL slug.
+- Suggested social sharing title.
+- Suggested social sharing description.
+
+Use keywords naturally.
+
+Never stuff keywords into every heading or paragraph.
+
+## B. Article structure
+
+1. Compelling headline.
+2. Engaging introduction.
+3. Explain the problem or subject.
+4. Provide relevant background.
+5. Explain the main subject in detail.
+6. Present verified facts and examples.
+7. Explain practical applications.
+8. Discuss advantages and disadvantages where relevant.
+9. Identify risks, limitations and misconceptions.
+10. Provide actionable recommendations.
+11. Include a quick summary.
+12. Include a relevant FAQ.
+13. Finish with a meaningful conclusion.
+
+Use descriptive H2 and H3 headings.
+
+Write for real readers, not search engines alone.
+
+Use short paragraphs, useful tables, bullet points and examples where appropriate.
+
+Avoid repetitive AI-style phrases and artificial introductions.
+
+## C. Original value requirement
+
+Every article must include at least two meaningful value additions where appropriate:
+
+- Original comparison.
+- Practical checklist.
+- Step-by-step tutorial.
+- Decision-making framework.
+- Realistic example.
+- Useful calculation.
+- Original analysis.
+- Downloadable resource.
+- Expert-reviewed explanation.
+- Relevant case study with verifiable evidence.
+
+Do not fabricate case studies or reader testimonials.
+
+## D. FAQ
+
+Include 3–6 useful questions based on genuine reader needs.
+
+Provide direct, accurate answers.
+
+Avoid repeating the entire article in the FAQ.
+
+Only implement FAQ structured data where appropriate and compliant with Google's current requirements.
+
+## E. Conclusion
+
+Summarize the main findings.
+
+Give the reader a useful next action.
+
+Include contextual links to related website resources.
+
+Do not use exaggerated marketing claims.
+
+---
+
+# PART 7 — IMAGE GENERATION AND OPTIMIZATION
+
+Every substantial article must have:
+
+1. One featured image.
+2. Four relevant in-content images where they genuinely improve the article.
+
+Use original AI-generated images or properly licensed images.
+
+Never steal copyrighted images.
+
+Image requirements:
+
+- Relevant to the article.
+- Professional editorial quality.
+- High visual clarity.
+- Consistent brand identity.
+- Optimized file size.
+- Responsive display.
+- Descriptive filenames.
+- Meaningful ALT descriptions.
+
+For each image generate:
+
+- Image filename.
+- Image description.
+- ALT text.
+- Caption where useful.
+- Recommended placement.
+
+Example:
+
+Image filename:
+ai-productivity-tools-workflow.webp
+
+ALT:
+A professional using AI productivity tools to organize daily work tasks on a laptop.
+
+Use modern image formats such as WebP or AVIF where supported.
+
+Lazy-load below-the-fold images.
+
+Do not lazy-load the main featured image if doing so would delay its display.
+
+Never use an unrelated image simply to increase the number of images.
+
+---
+
+# PART 8 — INTERNAL LINKING AND EXTERNAL AUTHORITY
+
+Internal linking is mandatory.
+
+For every article:
+
+- Add 3–6 relevant internal links when suitable pages exist.
+- Link to the relevant category.
+- Link to related guides.
+- Link to useful tools.
+- Include natural contextual anchor text.
+
+Never link to nonexistent URLs.
+
+Avoid excessive repeated anchor text.
+
+External references:
+
+Use 2–5 reliable sources when the subject requires them.
+
+Prioritize:
+
+- Government websites.
+- Universities.
+- Official documentation.
+- Original research.
+- Recognized institutions.
+- Reputable industry publications.
+
+Every factual reference must support the statement it accompanies.
+
+Include clickable source links and publication dates when available.
+
+Clearly distinguish editorial recommendations from sponsored or affiliate content.
+
+---
+
+# PART 9 — ADVANCED TECHNICAL SEO
+
+Implement the following.
+
+## On-page SEO
+
+- Unique title tags.
+- Unique meta descriptions.
+- Canonical URLs.
+- SEO-friendly slugs.
+- Logical H1, H2 and H3 structure.
+- Descriptive image ALT text.
+- Breadcrumbs.
+- Internal linking.
+- Open Graph metadata.
+- Social sharing metadata.
+- Descriptive anchor text.
+
+Each page should have one clear main heading.
+
+## Structured data
+
+Implement appropriate valid Schema.org structured data:
+
+- Organization.
+- WebSite.
+- WebPage.
+- Article or BlogPosting.
+- Person for genuine authors.
+- BreadcrumbList.
+- Recipe for genuine recipes, if relevant.
+- SoftwareApplication for qualifying software reviews, where appropriate.
+
+Validate structured data before deployment.
+
+Never add fabricated review ratings, prices, testimonials or author credentials.
+
+Structured data does not guarantee rich search results.
+
+## Technical SEO
+
+Implement:
+
+- XML sitemap.
+- Robots.txt.
+- HTTPS.
+- Canonical URL management.
+- Mobile-first responsive design.
+- Fast page loading.
+- Clean URL architecture.
+- Custom 404 page.
+- Proper redirects.
+- Image optimization.
+- Crawlable navigation.
+- Accessible HTML.
+- Semantic page structure.
+
+Check Core Web Vitals:
+
+- Largest Contentful Paint.
+- Interaction to Next Paint.
+- Cumulative Layout Shift.
+
+Target Google's recommended good thresholds.
+
+Prevent indexing of:
+
+- Admin pages.
+- Private dashboards.
+- Internal search-result pages where inappropriate.
+- Duplicate parameter URLs.
+- Empty pages.
+- Unnecessary test pages.
+
+Do not block important article content or assets from search-engine crawlers.
+
+---
+
+# PART 10 — GOOGLE ADSENSE APPROVAL AND COMPLIANCE
+
+This is a major business requirement.
+
+Prepare the website for Google AdSense review.
+
+Do not promise automatic approval.
+
+The website must demonstrate genuine value and comply with current Google publisher policies.
+
+## Content quality
+
+Ensure:
+
+- Original editorial content.
+- Useful and complete articles.
+- Clear niche relevance.
+- Accurate information.
+- Proper attribution.
+- No copied articles.
+- No mass-produced low-value pages.
+- No deceptive content.
+- No misleading headlines.
+- No fake author profiles.
+- No fabricated reviews.
+
+## Essential trust elements
+
+Ensure that visitors can easily find:
+
+- About Us.
+- Contact Us.
+- Privacy Policy.
+- Cookie Policy.
+- Editorial Policy.
+- Author information.
+- Affiliate Disclosure.
+- Terms and Conditions.
+
+Display genuine ownership and editorial information.
+
+## Website usability
+
+The website must have:
+
+- Functional navigation.
+- Working article links.
+- Working category pages.
+- No broken buttons.
+- No empty sections.
+- No intrusive popups.
+- No forced downloads.
+- No deceptive interface elements.
+- Good mobile experience.
+- Readable typography.
+- Clear content hierarchy.
+
+## Advertising readiness
+
+Prepare:
+
+- Appropriate advertising locations.
+- Privacy and consent management.
+- Ads.txt support when required.
+- Clear separation between editorial content and advertising.
+- No accidental ad-click encouragement.
+- No misleading download or navigation buttons.
+
+Do not artificially inflate page views, clicks or traffic.
+
+Never buy bot traffic.
+
+Never click your own ads.
+
+Never ask visitors to click advertisements.
+
+Do not insert advertisements into unfinished or low-value pages.
+
+Check current AdSense eligibility and policy requirements before submitting the website.
+
+---
+
+# PART 11 — E-E-A-T, TRUST AND EDITORIAL CREDIBILITY
+
+Build genuine editorial trust.
+
+Experience:
+Include practical examples, demonstrations and original observations when actually available.
+
+Expertise:
+Use accurate technical explanations and specialist review where necessary.
+
+Authoritativeness:
+Reference authoritative sources and build a coherent body of high-quality niche content.
+
+Trust:
+Provide transparent ownership, editorial standards, author information and correction procedures.
+
+Every article must identify its author.
+
+Where specialist review is necessary, identify the actual reviewer and their real qualifications.
+
+Never invent professional qualifications, industry experience, certifications or personal testing.
+
+Create author profile pages containing:
+
+- Real author name.
+- Genuine biography.
+- Relevant expertise.
+- Published articles.
+- Relevant professional links, if available.
+
+---
+
+# PART 12 — GEO AND AI SEARCH OPTIMIZATION
+
+Optimize content to be understandable and useful across:
+
+- Google Search.
+- Google AI Overviews.
+- ChatGPT search.
+- Perplexity.
+- Bing.
+- Other answer engines.
+
+Use:
+
+- Clear definitions.
+- Direct answers.
+- Descriptive headings.
+- Structured information.
+- Accurate facts.
+- Original insights.
+- Explicit source references.
+- Useful comparisons.
+- Concise summaries.
+- Well-structured FAQs.
+
+Explain specialist concepts in simple language.
+
+Use natural terminology rather than repetitive keyword variations.
+
+Do not promise that GEO optimization guarantees citations or mentions in AI answers.
+
+Do not create fake author citations or fake statistics to appear authoritative.
+
+---
+
+# PART 13 — USER EXPERIENCE AND CONVERSION
+
+Create a website that encourages visitors to explore more than one article.
+
+Implement:
+
+- Related articles.
+- Popular guides.
+- Contextual content recommendations.
+- Newsletter subscription.
+- Category exploration.
+- Search functionality.
+- Reading progress indicator.
+- Clear article navigation.
+- Social sharing.
+- Useful calls to action.
+
+Newsletter forms must have clear consent and privacy information.
+
+Avoid excessive subscription interruptions.
+
+Do not use fake countdowns, fake scarcity or misleading notifications.
+
+---
+
+# PART 14 — TRAFFIC ACQUISITION AND CONTENT DISTRIBUTION
+
+Create a content distribution strategy for:
+
+1. Google organic search.
+2. Pinterest.
+3. Facebook.
+4. LinkedIn when relevant.
+5. Reddit communities when permitted.
+6. Email newsletters.
+7. Relevant niche communities.
+
+For every published article, generate:
+
+- One Pinterest title.
+- One Pinterest description.
+- Three Pinterest visual concepts.
+- One Facebook post.
+- One LinkedIn post when relevant.
+- One short newsletter summary.
+
+Never spam communities.
+
+Respect each platform's rules.
+
+Create genuinely useful promotional material rather than repetitive links.
+
+---
+
+# PART 15 — ANALYTICS AND PERFORMANCE DASHBOARD
+
+Integrate Google Analytics 4 and Google Search Console.
+
+Create an admin reporting dashboard showing available data:
+
+- Organic clicks.
+- Search impressions.
+- CTR.
+- Average ranking position.
+- Top-performing articles.
+- Traffic by country.
+- Traffic by acquisition channel.
+- Engaged sessions.
+- Popular landing pages.
+- Newsletter conversions.
+- Affiliate clicks where tracking is configured.
+
+Do not invent or simulate analytics figures.
+
+If a service is not connected, clearly display that the data is unavailable.
+
+Include links to Google Search Console and Analytics.
+
+---
+
+# PART 16 — DAILY AUTOMATION WORKFLOW
+
+Build a configurable daily editorial pipeline.
+
+DEFAULT WORKFLOW:
+
+Every day:
+
+08:00 — Research new topics.
+
+08:30 — Evaluate topic opportunities.
+
+09:00 — Verify primary sources and facts.
+
+09:30 — Prepare article draft.
+
+10:00 — Generate and optimize article images.
+
+10:30 — Run SEO and originality checks.
+
+11:00 — Run editorial and compliance checks.
+
+11:30 — Add internal and external links.
+
+12:00 — Save the completed draft.
+
+IMPORTANT PUBLISHING RULE:
+
+Use a human approval stage by default.
+
+The administrator must be able to:
+
+- Approve.
+- Edit.
+- Reject.
+- Schedule.
+- Publish.
+
+Only allow automatic publication when explicitly enabled by the website owner and when all editorial verification requirements pass.
+
+If research is weak, sources cannot be verified or content quality is insufficient, do not publish.
+
+Instead, save the draft with an explanation of what needs attention.
+
+Daily automation must use real connected research services, an AI model, a persistent database and a working scheduler.
+
+Never pretend that background research or automatic publishing is running if the necessary integrations are missing.
+
+---
+
+# PART 17 — ADMINISTRATOR MASTER COMMANDS
+
+Create a simple interface allowing the owner to request:
+
+COMMAND 1:
+"Write today's best trending topic."
+
+Research current developments and select the strongest relevant topic.
+
+COMMAND 2:
+"Create an evergreen article."
+
+Research a useful subject with long-term reader value.
+
+COMMAND 3:
+"Analyze this article for SEO."
+
+Review content, search intent, keywords, structure, links, originality and credibility.
+
+COMMAND 4:
+"Find content gaps."
+
+Identify important subjects not adequately covered by existing articles.
+
+COMMAND 5:
+"Improve this article."
+
+Update outdated facts, references, headings, explanations and SEO metadata.
+
+COMMAND 6:
+"Create a content calendar."
+
+Prepare a 30-day editorial plan.
+
+COMMAND 7:
+"Prepare the website for AdSense."
+
+Run a full policy, content, navigation and technical readiness audit.
+
+COMMAND 8:
+"Generate social media content."
+
+Create promotional content for selected articles.
+
+COMMAND 9:
+"Find outdated articles."
+
+Identify content that needs review based on changes in the subject.
+
+COMMAND 10:
+"Generate monthly SEO report."
+
+Summarize actual analytics and search performance.
+
+---
+
+# PART 18 — SECURITY, PERFORMANCE AND SCALABILITY
+
+The application must:
+
+- Use secure authentication.
+- Protect admin routes.
+- Store API keys securely on the server.
+- Never expose secret API keys in frontend code.
+- Validate user input.
+- Sanitize content.
+- Protect against common web vulnerabilities.
+- Use secure database access rules.
+- Include backups or a documented backup process.
+- Handle API errors.
+- Prevent duplicate scheduled posts.
+- Include rate limits where appropriate.
+
+Optimize for mobile devices and desktop.
+
+Use scalable components and maintainable code.
+
+---
+
+# PART 19 — FINAL QUALITY CONTROL
+
+Before declaring the website complete, perform a complete audit.
+
+Check:
+
+1. All six categories work.
+2. Homepage works on mobile and desktop.
+3. All article pages load.
+4. Search functionality works.
+5. Navigation works.
+6. All essential pages exist.
+7. Images load correctly.
+8. ALT text exists.
+9. SEO titles and descriptions are unique.
+10. Canonical URLs are correct.
+11. Sitemap is accessible.
+12. Robots.txt is accessible.
+13. Structured data validates.
+14. Internal links work.
+15. External references work.
+16. Forms work.
+17. Newsletter subscription works.
+18. Admin authentication works.
+19. Analytics integrations are configured.
+20. No private pages are publicly indexed.
+21. Privacy and consent functionality is tested.
+22. No placeholder content remains.
+23. No fabricated statistics or credentials exist.
+24. No broken links or major console errors remain.
+25. AdSense policy readiness has been reviewed.
+
+Produce a final implementation report explaining:
+
+- What has been completed.
+- What integrations are connected.
+- What remains to configure.
+- Any technical limitations.
+- Any issues that could affect SEO.
+- Any issues that could affect AdSense approval.
+
+---
+
+# FINAL INSTRUCTION
+
+Do not build a basic AI-generated blog template.
+
+Build a genuine, professional editorial publishing platform with long-term business potential.
+
+Prioritize reader satisfaction, content originality, verified information, editorial credibility, excellent user experience, technical SEO and sustainable monetization.
+
+The result must be ready for the owner to manage, expand and grow without needing to write code.
+
+Start by planning the architecture, then build the complete website, database, admin dashboard, content system and integrations.
+
+Do not stop at a homepage mockup.
+
+Do not leave important functions as non-working buttons.
+
+If an integration requires an API key, paid service or external configuration, clearly explain the requirement and provide a working configuration interface.
+
+**The ultimate goal is to create a trusted niche publication that deserves organic search visibility and is properly prepared for Google AdSense review.**

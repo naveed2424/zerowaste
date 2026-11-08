@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Compatibility shim for browser extensions that intercept or overwrite window.fetch
+      (function() {
+        try {
+          var _origFetch = window.fetch;
+          var _currentFetch = function() {
+            return _origFetch.apply(window, arguments);
+          };
+          Object.defineProperty(window, 'fetch', {
+            get: function() {
+              return _currentFetch;
+            },
+            set: function(fn) {
+              _currentFetch = fn;
+            },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (e) {
+          // ignore if already configurable
+        }
+      })();
+    </script>
+    <title>SavorZero 🌸 Floral Zero-Waste & Gluten-Free Kitchen</title>
+    <meta name="description" content="A charming, floral zero-waste and gluten-free kitchen journal with quick 10-minute recipes, grocery savings tools, and food preservation magic." />
+    
+    <!-- Open Graph Metadata -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="SavorZero" />
+    <meta property="og:title" content="SavorZero 🌸 Floral Zero-Waste & Gluten-Free Kitchen" />
+    <meta property="og:description" content="A charming, floral zero-waste and gluten-free kitchen journal with quick 10-minute recipes, grocery savings tools, and food preservation magic." />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80" />
+    
+    <!-- Twitter Metadata -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="SavorZero - Zero-Waste & Gluten-Free Living" />
+    <meta name="twitter:description" content="The premier editorial publication for zero-waste food preservation, gluten-free culinary excellence, leftover recycling, and smart grocery savings." />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80" />
+    
+    <!-- Canonical -->
+    <link rel="canonical" href="https://savorzero.org/" />
+    
+    <!-- Fonts for refined eco-editorial styling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;1,400;1,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-[#FAF9F5] text-stone-900 antialiased selection:bg-emerald-100 selection:text-emerald-950">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

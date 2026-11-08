@@ -1,0 +1,8 @@
+{
+  "name": "SavorZero - Zero-Waste & Gluten-Free Living",
+  "description": "The premier editorial publication for zero-waste food preservation, gluten-free culinary excellence, leftover recycling, and smart grocery savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

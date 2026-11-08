@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #292524;
+    background-color: #FFFDF9;
+    background-image: 
+      radial-gradient(#FCE7F3 0.85px, transparent 0.85px), 
+      radial-gradient(#FED7AA 0.85px, #FFFDF9 0.85px);
+    background-size: 34px 34px;
+    background-position: 0 0, 17px 17px;
+  }
+
+  h1, h2, h3, h4, .font-editorial {
+    font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
+  }
+}
+
+/* Floral Petal Floating Animations */
+@keyframes petalFall1 {
+  0% {
+    transform: translateY(-20px) rotate(0deg) translateX(0);
+    opacity: 0;
+  }
+  20% {
+    opacity: 0.85;
+  }
+  80% {
+    opacity: 0.85;
+  }
+  100% {
+    transform: translateY(105vh) rotate(360deg) translateX(80px);
+    opacity: 0;
+  }
+}
+
+@keyframes petalFall2 {
+  0% {
+    transform: translateY(-20px) rotate(45deg) translateX(0);
+    opacity: 0;
+  }
+  20% {
+    opacity: 0.75;
+  }
+  80% {
+    opacity: 0.75;
+  }
+  100% {
+    transform: translateY(105vh) rotate(-280deg) translateX(-90px);
+    opacity: 0;
+  }
+}
+
+@keyframes gentleFloat {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-6px) rotate(2deg);
+  }
+}
+
+@keyframes softPulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.04);
+  }
+}
+
+.animate-petal-1 {
+  animation: petalFall1 14s linear infinite;
+}
+
+.animate-petal-2 {
+  animation: petalFall2 18s linear infinite;
+}
+
+.animate-float-slow {
+  animation: gentleFloat 5s ease-in-out infinite;
+}
+
+.animate-pulse-soft {
+  animation: softPulse 3s ease-in-out infinite;
+}
+
+/* Floral Background Motif */
+.bg-floral-pattern {
+  background-color: #FFFDF9;
+  background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23FCE7F3' fill-opacity='0.45' fill-rule='evenodd'%3E%3Cpath d='M40 32c-3.3 0-6 2.7-6 6 0 2.2 1.2 4.1 3 5.2-1.8 1.1-3 3-3 5.2 0 3.3 2.7 6 6 6s6-2.7 6-6c0-2.2-1.2-4.1-3-5.2 1.8-1.1 3-3 3-5.2 0-3.3-2.7-6-6-6zm-8.8 6c0-1.8 1.1-3.4 2.8-4.1-1.1-1.8-1.8-3.9-1.8-6.1 0-5.5 4.5-10 10-10 2.2 0 4.3.7 6.1 1.8.7-1.7 2.3-2.8 4.1-2.8 2.5 0 4.5 2 4.5 4.5 0 1.8-1.1 3.4-2.8 4.1 1.1 1.8 1.8 3.9 1.8 6.1 0 5.5-4.5 10-10 10-2.2 0-4.3-.7-6.1-1.8-.7 1.7-2.3 2.8-4.1 2.8-2.5 0-4.5-2-4.5-4.5z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* Cute foodie glow card */
+.foodie-card {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.foodie-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 32px -8px rgba(244, 63, 94, 0.12), 0 8px 16px -6px rgba(251, 146, 60, 0.08);
+}
+
+/* Custom scrollbars and printing */
+@media print {
+  header, footer, .no-print, .petal-container {
+    display: none !important;
+  }
+}
