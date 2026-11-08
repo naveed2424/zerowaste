@@ -70,7 +70,7 @@ if (process.env.GEMINI_API_KEY) {
 app.get('/ads.txt', (req: Request, res: Response) => {
   const db = readDb();
   res.setHeader('Content-Type', 'text/plain');
-  const text = (db.settings?.adsTxtContent || 'google.com, pub-9842109842109842, DIRECT, f08c47fec0942fa0\namazon.com, savorzero-20, DIRECT').replace(/\\n/g, '\n');
+  const text = (db.settings?.adsTxtContent || 'google.com, pub-8358033803354457, DIRECT, f08c47fec0942fa0\namazon.com, savorzero-20, DIRECT').replace(/\\n/g, '\n');
   res.send(text);
 });
 

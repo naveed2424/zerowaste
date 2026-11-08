@@ -27,11 +27,11 @@ export default function App() {
     tagline: 'Floral Zero-Waste & Gluten-Free Kitchen',
     description: 'The premier editorial publication for zero-waste food preservation and gluten-free culinary treats.',
     contactEmail: 'editorial@savorzero.org',
-    adsenseClientId: 'ca-pub-9842109842109842',
+    adsenseClientId: 'ca-pub-8358033803354457',
     adsenseEnabled: true,
     inArticleAds: true,
     amazonAssociateTag: 'savorzero-20',
-    adsTxtContent: 'google.com, pub-9842109842109842, DIRECT, f08c47fec0942fa0\namazon.com, savorzero-20, DIRECT',
+    adsTxtContent: 'google.com, pub-8358033803354457, DIRECT, f08c47fec0942fa0\namazon.com, savorzero-20, DIRECT',
     autoPublishEnabled: false,
     dailyWorkflowTime: '08:00 AM UTC'
   });
